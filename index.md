@@ -1,6 +1,13 @@
 ---
 layout: default
 ---
+# README.md
+
+Hey! My name is Mája and I am a Computational Linguistics student from the Czech Republic :czech_republic:
+
+I used to be a Windows user but one year ago I partially switched to Linux :penguin: I've tried Deepin, Fedora, CentOS, and then Manjaro running KDE. But I wanted something simpler to work with, so now I am dualbooting Win10 with Ubuntu-based Pop!\_OS. You can see my configuration [here](https://github.com/AiKuroyake/Dracula-Pop-Dotfiles)
+
+
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
