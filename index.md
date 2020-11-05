@@ -5,9 +5,9 @@ layout: default
 
 Hey! My name is Mája and I am a Computational Linguistics student from the Czech Republic :czech_republic: Currently, I am studying at the University of Helsinki :finland: as an exchange student!
 
-I used to be a Windows user but one year ago I partially switched to Linux :penguin: 
+I used to be a Windows user but one year ago I partially switched to Linux :penguin: (I am dualbooting Win10) I started with Manjaro running KDE. But then I realized I need something simpler to work with, so now I enjoy Pop!\_OS running GNOME. You can see my current configuration [here](https://github.com/AiKuroyake/Dracula-Pop-Dotfiles). Besides these two distros I have also tried Fedora, CentOS, Deepin and Mint.
 
-I've tried Deepin, Fedora, CentOS, and then Manjaro running KDE. But I wanted something simpler to work with, so now I am dualbooting Win10 with Pop!\_OS running GNOME. You can see my current configuration [here](https://github.com/AiKuroyake/Dracula-Pop-Dotfiles).
+[linux](https://images-cdn.9gag.com/photo/aeDPjBv_700b.jpg "Lord Saviour Linux")
 
 ## Courses I've taken at the University of Helsinki
 
