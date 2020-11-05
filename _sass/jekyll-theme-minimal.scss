@@ -111,6 +111,10 @@ header {
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
+ul.media {
+	list-style:none;
+}
+
 ul.downloads {
   list-style:none;
   height:40px;
@@ -119,10 +123,6 @@ ul.downloads {
   border-radius:5px;
   border:1px solid #e0e0e0;
   width:270px;
-}
-
-ul.media {
-	list-style:none;
 }
 
 .downloads li {
