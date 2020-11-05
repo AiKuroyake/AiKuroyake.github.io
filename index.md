@@ -23,3 +23,8 @@ I used to be a Windows user but one year ago I partially switched to Linux :peng
 *	[Finnish Beginner's Course for Exchange Students](https://courses.helsinki.fi/en/FINN-114/137493203)
 *	[Refresher Course of Basic German](https://courses.helsinki.fi/en/KK-SAK105/136434348)
 
+## My CV
+
+If you are interested in checking my CV (and you understand Czech) go ahead!
+
+[CV](https://raw.githubusercontent.com/AiKuroyake/AiKuroyake.github.io/master/assets/documents/IRL%20%C5%BDivotopis-page-001.jpg "My CV")
