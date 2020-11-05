@@ -28,3 +28,10 @@ I used to be a Windows user but one year ago I partially switched to Linux :peng
 If you are interested in checking my CV (and you understand Czech) go ahead!
 
 ![CV](https://raw.githubusercontent.com/AiKuroyake/AiKuroyake.github.io/master/assets/documents/IRL%20%C5%BDivotopis-page-001.jpg "My CV")
+
+## Projects
+
+You can take a look on my projects listed on GitHub.
+
+[Command Line Course Project](https://github.com/AiKuroyake/AiKuroyake.github.io) - as a final project for Command Line Tools course I have created this webpage
+[Dracula Pop! Dotfiles](https://github.com/AiKuroyake/Dracula-Pop-Dotfiles) - an overview of my current Pop!\_OS settings including dotfiles, cosmetics, extensions and wallpapers
