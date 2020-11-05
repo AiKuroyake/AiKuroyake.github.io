@@ -34,4 +34,5 @@ If you are interested in checking my CV (and you understand Czech) go ahead!
 You can take a look on my projects listed on GitHub.
 
 [Command Line Course Project](https://github.com/AiKuroyake/AiKuroyake.github.io) - as a final project for Command Line Tools course I have created this webpage
+
 [Dracula Pop! Dotfiles](https://github.com/AiKuroyake/Dracula-Pop-Dotfiles) - an overview of my current Pop!\_OS settings including dotfiles, cosmetics, extensions and wallpapers
