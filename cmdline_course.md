@@ -10,7 +10,7 @@ I signed to the course because I knew only very basics of navigating \*nix type 
 
 ## **WEEK 1:** Introduction to Command Line Environments
 
-We started by setting our environment. I did not have to bother about it since I had already been using Pop!\_OS
+We started by setting our environment. I did not have to bother about it since I had already been using Pop!\_OS. Then we tried our very first commands to navigate the system and work with files and directories.
 
 ### List of commands we learned
 
@@ -100,13 +100,47 @@ In week 3, we were finally introduced to text processing tools. We learned about
 
 Things started to get really tough in that week! We learned about `sed` command and how to use it to find patterns and replace them in a text file. UNIX pipelines were introduced as well.
 
+### Command Examples
 
+#### Frequency List
+
+```
+bash
+cat life_of_bee.txt | tr -s '\n\r\t\ ' '\n' | tr -dc "A-Za-z0-9\n'" | sort | uniq -c | sort -nr > life_of_bee.freq
+```
+
+#### Sentence per Line Format
+
+```
+bash
+cat life_of_bee.txt | dos2unix | sed 's/^$/#/' | tr '\n' ' ' | sed -E 's/([.?!]) ([A-Z])/\1# \2/g' | sed -E 's/([IVX][.])#/\1/g' | tr '#' '\n' | sed 's/^ *//' | grep -v "^$" > life_of_bee.sent
+```
 
 ## **WEEK 5:** Scripting and Configuration Files
 
 During week 5 we grabbed our commands and transformed them to scripts, so we would save time not typing them one by one over and over again. We used our knowledge of permissions and applied basic programming knowledge (such as variables and loops) on our scripts as well.
 
-We looked around bash configuration files and modified them. But I didn't have to do that. I had had my .bashrc (.zshrc respectively) already modified!
+We looked around bash configuration files and modified them. But I didn't have to do that because I had had my .bashrc (.zshrc respectively) already modified since the beginning of using Pop!\_OS. 
+
+### Example of a Bash Script
+
+```
+bash
+#! /bin/bash
+
+# The script does a basic maintenance of the system.
+# Make sure to run it as a root.
+
+echo -e "\nMaintenance starting\n"
+
+apt update
+apt -y upgrade
+
+apt -y autoremove
+apt autoclean
+
+echo -e "\nJob done!\n"
+```
 
 ## **WEEK 6:** Installing and Running Programs
 
