@@ -6,6 +6,8 @@ layout: default
 
 I signed to the course because I knew only very basics of navigating \*nix type of system. I didn't know how command line can be useful for linguists and how much time command line tools can save. Here I've listed an overview of our 7-week long journey.
 
+![xkcd linguistics](https://imgs.xkcd.com/comics/computational_linguists.png "xkcd comics on computational linguistics")
+
 ## **WEEK 1:** Introduction to Command Line Environments
 
 We started by setting our environment. I did not have to bother about it since I had already been using Pop!\_OS
